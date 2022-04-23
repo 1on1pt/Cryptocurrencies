@@ -12,7 +12,23 @@ Martha is a senior manager for the Advisory Services Team at Accountability Acco
 The data Martha will be working with is not ideal, so it was processed to fit the machine learning models. Since there is no known output for what Martha is looking for, she has decided to use unsupervised learning. To group the cryptocurrencies, Martha decided on a clustering algorithm. She’ll use data visualizations to share her findings with the board.
 
 ### Resources
+#### Code:
+* crypto_clustering.ipynb
 
+#### Data:
+* 
+
+#### Software/Data Tools/Algorithms:
+* Jupyter Notebook 6.4.6
+* Python 3.7.11
+* scikit-learn
+* imbalanced-learn
+* RandomOverSampler
+* SMOTE
+* ClusterCentroids
+* SMOTEENN
+* BalancedRandomForestClassifier
+* EasyEnsembleClassifier
 
 ## Results
 
