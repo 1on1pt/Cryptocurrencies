@@ -29,6 +29,7 @@ The data Martha will be working with is not ideal, so it was processed to fit th
 * Python 3.7.11
 * scikit-learn
 * hvPlot
+* Plotly
 * StandardScaler
 * MinMaxScaler
 * PCA
