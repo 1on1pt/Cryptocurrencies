@@ -7,9 +7,8 @@ Taking a deeper dive into machine learning by using unsupervised algorithms, for
 
 Data analysis skills in unsupervised machine learning include:
 * How to preprocess data - selection, transformation, and scaling
-* How to cluster - using elbow curve
-* How to reduce dimensions
-* How to reduce the principal components using PCA
+* How to reduce the principal components using Principal Component Analysis (PCA)
+* How to create an elbow curve plot using the K-Means algorithm to find the best value for number of clusters (k)
 * How to visualize the results - hvPlot, Plotly
 
 All of these skills are put to use by creating an analysis for clients who are preparing to get into the cryptocurrency market.
@@ -70,10 +69,31 @@ Next, a dataframe was created with the three principal components:
 ![pcs_df](https://user-images.githubusercontent.com/94148420/164936218-7b7f31cf-d80d-434e-9c25-ae37c88340b7.PNG)
 
 
-
 ### Clustering Cryptocurrencies Using K-means
+Finding the best value for k is demonstrated here:
+
+![k_means](https://user-images.githubusercontent.com/94148420/164945600-250c7d23-0a54-477b-900f-03af8a0ba3d9.PNG)
+
+
+Then running K-Means with k=4:
+
+![k_means_4](https://user-images.githubusercontent.com/94148420/164945742-75ace20a-99ae-4e88-b928-fe00d5549f19.PNG)
+
+
+And then creating a new dataframe that includes predicted clusters and cryptocurrency features:
+
+![new_df_clusters](https://user-images.githubusercontent.com/94148420/164945800-335cc362-d921-4c5a-975f-5554e474eb62.PNG)
 
 
 ### Visualizing Cryptocurrencies Results
+A 3D scatter plot was created using PCA data:
+
+![pca_scatter](https://user-images.githubusercontent.com/94148420/164945958-858efcbf-07d6-4273-9546-6e1959b8836c.PNG)
+
+
+Finally, a 2D scatter plot was created to show "Total Coin Supply" and "Total Coins Mined":
+
+![2D_scatter](https://user-images.githubusercontent.com/94148420/164946017-14756a03-c552-42cf-9ff3-4b44d4afc91f.PNG)
+
 
 ## Summary
