@@ -98,9 +98,10 @@ Finally, a 2D scatter plot was created to show "Total Coin Supply" and "Total Co
 
 
 ## Summary
-The Accountability Accounting board will find this report extremely helpful, under Martha's guidance, as the firm begins to analyze their new cryptocurrency investment portfolio for its customers. This report includes such essential data as what cryptocurrencies are on the trading market and are grouped by class to create a classification system for this new investment.  In addition, Martha and the board will be able to use the "hover" feature on the scatter plots to identify:
+The Accountability Accounting board will find this report extremely helpful, under Martha's guidance, as the firm begins to analyze their new cryptocurrency investment portfolio for its customers. This report includes a tradable cryptocurrency table with such essential data as what cryptocurrencies are on the trading market, coin name, total coin supply, and total coins mined.  In addition, Martha and the board will be able to use the "hover" feature on the two scatter plots to identify such information as:
 * Class
 * Total Coins Mined
 * Total Coin Supply
 * Coin Name
+* Algorithm
 
