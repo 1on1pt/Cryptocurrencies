@@ -7,6 +7,9 @@ Taking a deeper dive into machine learning by using unsupervised algorithms, for
 
 ![coin_image](https://user-images.githubusercontent.com/94148420/164916047-20738768-a4a7-4712-969e-f5eb5e1cdb34.jpg)
 
+![bitcoin_image](https://user-images.githubusercontent.com/94148420/164917172-b3946358-bb1a-431c-b131-84c5a2c73b3f.jpg)
+
+
 
 ### Resources
 
