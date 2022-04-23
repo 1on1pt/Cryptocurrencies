@@ -5,7 +5,13 @@ Taking a deeper dive into machine learning by using unsupervised algorithms, for
 ## Overview of the Analysis
 ![popular-cryptocurrencies](https://user-images.githubusercontent.com/94148420/164922829-937b9523-0436-4ce6-ae14-0df3a2794ece.jpeg)
 
-You and Martha have done your research. Data analysis skills in unsupervised machine learning include how to process data, how to cluster, how to reduce dimensions, and how to reduce the principal components using PCA. All of these skills are put to use by creating an analysis for clients who are preparing to get into the cryptocurrency market.
+You and Martha have done your research. Data analysis skills in unsupervised machine learning include:
+* How to process data
+* How to cluster
+* How to reduce dimensions
+* How to reduce the principal components using PCA
+
+All of these skills are put to use by creating an analysis for clients who are preparing to get into the cryptocurrency market.
 
 Martha is a senior manager for the Advisory Services Team at Accountability Accounting, one of your most important clients. Accountability Accounting, a prominent investment bank, is interested in offering a new cryptocurrency investment portfolio for its customers. The company, however, is lost in the vast universe of cryptocurrencies. So, they’ve asked you to create a report that includes what cryptocurrencies *are on the trading market* and *how they could be grouped to create a classification system* for this new investment.
 
@@ -16,19 +22,17 @@ The data Martha will be working with is not ideal, so it was processed to fit th
 * crypto_clustering.ipynb
 
 #### Data:
-* 
+* https://github.com/1on1pt/Cryptocurrencies/blob/main/Resources/crypto_data.csv
 
-#### Software/Data Tools/Algorithms:
+#### Software/Data Tools/Libraries:
 * Jupyter Notebook 6.4.6
 * Python 3.7.11
 * scikit-learn
-* imbalanced-learn
-* RandomOverSampler
-* SMOTE
-* ClusterCentroids
-* SMOTEENN
-* BalancedRandomForestClassifier
-* EasyEnsembleClassifier
+* hvPlot
+* StandardScaler
+* MinMaxScaler
+* PCA
+* KMeans
 
 ## Results
 
