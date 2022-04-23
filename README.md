@@ -38,6 +38,7 @@ The data Martha will be working with is not ideal, so it was processed to fit th
 ## Results
 ### Preprocessing the Data for PCA
 The original dataset was preprocessed for PCA.  Here is the original dataset as it was loaded into the crypto_df dataframe:
+
 ![orig_df](https://user-images.githubusercontent.com/94148420/164934383-722fe87a-8ad8-402b-8395-dedf6653d9da.PNG)
 
 Summary of cleaning/preprocessing the data:
