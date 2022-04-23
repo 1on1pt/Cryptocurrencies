@@ -49,17 +49,23 @@ Summary of cleaning/preprocessing the data:
 * Stardarding the data with StandardScaler()
 
 Here is using get_dummies() to create variables for text features:
+
 ![get_dummies](https://user-images.githubusercontent.com/94148420/164934926-f668c1d7-1bf8-452b-b0e8-aec6eaad19d3.PNG)
 
+
 And standardizing the data with StandardScaler():
+
 ![stand_scale](https://user-images.githubusercontent.com/94148420/164935244-1d0a13a3-096f-463f-ace9-134c6d3970f1.PNG)
 
 
 ### Reducing Data Dimensions Using PCA
 PCA was used to reduce dimension to three principal components:
+
 ![pca_reduce](https://user-images.githubusercontent.com/94148420/164935760-59b42fe7-d6ce-4f05-8203-1825bd325222.PNG)
 
+
 Next, a dataframe was created with the three principal components:
+
 ![pcs_df](https://user-images.githubusercontent.com/94148420/164936218-7b7f31cf-d80d-434e-9c25-ae37c88340b7.PNG)
 
 
