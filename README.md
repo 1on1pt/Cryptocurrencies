@@ -5,7 +5,7 @@ Taking a deeper dive into machine learning by using unsupervised algorithms, for
 ## Overview of the Analysis
 ![popular-cryptocurrencies](https://user-images.githubusercontent.com/94148420/164922829-937b9523-0436-4ce6-ae14-0df3a2794ece.jpeg)
 
-You and Martha have done your research. Data analysis skills in unsupervised machine learning include:
+Data analysis skills in unsupervised machine learning include:
 * How to preprocess data - selection, transformation, and scaling
 * How to cluster - using elbow curve
 * How to reduce dimensions
