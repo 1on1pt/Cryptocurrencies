@@ -3,7 +3,8 @@ Taking a deeper dive into machine learning by using unsupervised algorithms, for
 
 
 ## Overview of the Analysis
-![bitcoin_ethereum_ripple_1300_x_956](https://user-images.githubusercontent.com/94148420/164922010-65a8248f-3606-4e31-9107-17be4b07b344.jpg)
+![popular-cryptocurrencies](https://user-images.githubusercontent.com/94148420/164922829-937b9523-0436-4ce6-ae14-0df3a2794ece.jpeg)
+
 
 
 
