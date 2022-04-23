@@ -9,7 +9,7 @@ Taking a deeper dive into machine learning by using unsupervised algorithms, for
 
 ![bitcoin_image](https://user-images.githubusercontent.com/94148420/164917172-b3946358-bb1a-431c-b131-84c5a2c73b3f.jpg)
 
-![design-of-cryptocurrency-types-vector-20360108](https://user-images.githubusercontent.com/94148420/164917201-e4a6e79b-e15f-46d2-8635-5cb0cf6767f6.jpg)
+![popular-cryptocurrencies](https://user-images.githubusercontent.com/94148420/164917761-530fd2dd-3705-4924-9157-4917d0cd2ec6.jpeg)
 
 
 ### Resources
