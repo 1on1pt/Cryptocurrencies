@@ -105,3 +105,7 @@ The Accountability Accounting board will find this report extremely helpful, und
 * Coin Name
 * Algorithm
 
+_______________________________________________________
+### Contact:
+
+#### E-mail:  jbeauchamppt@gmail.com
